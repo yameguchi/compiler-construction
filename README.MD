@@ -1,4 +1,4 @@
-# Intermediate Code Generation
+# Compiler - Intermediate Code Generation
 
 ## Description
 
